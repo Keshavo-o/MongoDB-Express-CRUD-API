@@ -17,12 +17,12 @@ node index.js
 ### Server runs at: http://localhost:3030
 
 ## API Endpoints
-### GET	/	Hello World message
-### GET	/users	Get all users
-### GET	/users/:id	Get user by ID
-### POST	/users	Create new user
-### PATCH	/users/:id	Update user by ID
-### DELETE	/users/:id	Delete user by ID
+#### GET	/	Hello World message
+#### GET	/users	Get all users
+#### GET	/users/:id	Get user by ID
+#### POST	/users	Create new user
+#### PATCH	/users/:id	Update user by ID
+#### DELETE	/users/:id	Delete user by ID
 
 ## Notes:
 Only works for application/x-www-form-urlencoded request bodies (for POST/PATCH).
